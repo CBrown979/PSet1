@@ -1,3 +1,6 @@
+// prjm - Very descriptive variables. Could some of these be simplified?
+// prjm - The descriptive variables made it easy to follow the code and see what was going on.  I know this seems contradictory to my first comment.
+
 #include <math.h>
 #include <cs50.h>
 #include <stdio.h>
